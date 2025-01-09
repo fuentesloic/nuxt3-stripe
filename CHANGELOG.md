@@ -1,5 +1,17 @@
 # Changelog
 
+## v4.0.2
+
+[compare changes](https://github.com/fuentesloic/nuxt-stripe/compare/v4.0.1...v4.0.2)
+
+### 🏡 Chore
+
+- Fix security issue for cross spawn ([#42](https://github.com/fuentesloic/nuxt-stripe/pull/42))
+
+### ❤️ Contributors
+
+- Florent Giraud ([@flozero](http://github.com/flozero))
+
 ## v4.0.1
 
 [compare changes](https://github.com/fuentesloic/nuxt-stripe/compare/v4.0.0...v4.0.1)
